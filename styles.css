@@ -71,6 +71,7 @@ button {
 .images {
     display: flex;
     column-gap: 16px;
+    color: #1F2937;
 }
 
 .image {
@@ -81,7 +82,7 @@ button {
 }
 
 .i {
-    height: 400px;
+    height: 250px;
     width: 200px;
     text-align: center;
 }
@@ -91,4 +92,25 @@ button {
     font-weight: 900;
     color: #1F2937;
     margin: 42px 0;
+}
+
+
+.third {
+    background-color: #E5E7EB;
+    padding: 120px 200px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+    text-align: center;
+}
+
+.thor {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1F2937;
+    text-align: right;
 }
