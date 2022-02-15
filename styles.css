@@ -54,6 +54,8 @@ button {
 .hero {
     display: flex;
     margin-top: 100px;
+    column-gap: 24px;
+    justify-content: center;
 }
 
 .link {
