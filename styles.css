@@ -114,3 +114,37 @@ button {
     color: #1F2937;
     text-align: right;
 }
+
+
+.fourth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 120px 0;
+}
+
+.box {
+    display: flex;
+    background-color: #3882F6;
+    padding: 48px 96px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    column-gap: 80px;
+}
+
+.call {
+    display: flex;
+    flex-direction: column;
+    color: #F9FAF8;
+}
+
+.action {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.b2 {
+    border: solid 2px white;
+    margin-top: 0;
+} 
